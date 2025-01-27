@@ -1,6 +1,6 @@
 # README
 
-## Alt School Assignment 1
+## Alt School Profile Web Page
 
 ### Description
 
@@ -57,6 +57,10 @@ This project is a simple HTML-based webpage created as part of the Alt School Af
 project-folder/
     └── index.html
 ```
+
+### Live Site
+
+You can view the live version of the site [here](https://rh0se.github.io/ALT-SCHOOL-ASSIGNMENT-1/).
 
 ### Author
 
